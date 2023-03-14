@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there, my name is Tran Thi Ngoc Hien 👋
+My ID is B2011965
+I'm a student at Can Tho University
+My major's Infomation System.
 <!--
 **B2011965/B2011965** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
